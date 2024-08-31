@@ -1,2 +1,2 @@
-## web2023-spring
+## web 2023
 - Web Programming Class
