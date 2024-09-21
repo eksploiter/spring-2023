@@ -23,12 +23,11 @@
 <br>
 
 ## 개발 환경
-- **언어**: Java
-- **프레임워크**: Spring Framework
-- **IDE**: IntelliJ IDEA
-- **빌드 도구**: Maven
-- **데이터베이스**: MariaDB
-- **Spring Boot 버전**: 2.x
+- **언어** :  Java
+- **프레임워크** :  Spring Framework
+- **IDE** :  IntelliJ IDEA
+- **빌드 도구** :  Maven
+- **데이터베이스** :  MariaDB
 <br>
 
 ## 참고 자료
