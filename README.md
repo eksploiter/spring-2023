@@ -26,8 +26,9 @@
 - **언어** :  Java
 - **프레임워크** :  Spring Framework
 - **IDE** :  IntelliJ IDEA
-- **빌드 도구** :  Maven
+- **빌드 도구** :  Gradle
 - **데이터베이스** :  MariaDB
+- **라이브러리** :  Lombok
 <br>
 
 ## 참고 자료
